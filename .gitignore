@@ -15,4 +15,7 @@
 # vendor/
 
 # Jetbrains IDE configuration
-.idea
+.idea/
+
+# Exercism config files
+.exercism/
