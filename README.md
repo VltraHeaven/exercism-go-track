@@ -1,3 +1,3 @@
 # exercism-go-track
 
-Exercise solutions for the go track on exercism.org 
+Solutions for [Exercism's](https://exercism.org) Go track exercises.
